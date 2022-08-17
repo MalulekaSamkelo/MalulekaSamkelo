@@ -25,5 +25,4 @@ Keras
 Tableau
 Microsoft Excel 
 Python
-https://www.microsoft.com/en-us/microsoft-365/excel
-https://www.python.org/
+
