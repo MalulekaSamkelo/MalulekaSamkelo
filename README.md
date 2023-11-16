@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/Analyst
 - 🌱 I hold a BSC in Computer Science and Mathematics
 - 💞️ I’m looking to collaborate on a Data analyst
-- 📫 You can reach me at slmaluleka1@gail.com
+- 📫 You can reach me at slmaluleka1@gmail.com
 
 - Programming Languages:
 Python
