@@ -10,7 +10,7 @@ T-SQL
 Java
 MySQL
 
--Data Integration:
+- Data Integration:
 SSIS (SQL Server Integration Services)
 
 - Data Analysis Tools/Libraries:
