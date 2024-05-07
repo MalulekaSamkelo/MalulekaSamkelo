@@ -1,14 +1,17 @@
 - 👋 Hi, I’m @MalulekaSamkelo
-- 👀 I’m interested in Data Science/Analyst
+- 👀 I’m interested in Data Science/Analyst/Engineering
 - 🌱 I hold a BSC in Computer Science and Mathematics
-- 💞️ I’m looking to collaborate on a Data analyst
 - 📫 You can reach me at slmaluleka1@gmail.com
 
 - Programming Languages:
 Python
+SQL
+T-SQL
 Java
 MySQL
-SQL
+
+-Data Integration
+SSIS (SQL Server Integration Services)
 
 - Data Analysis Tools/Libraries:
 Pandas
@@ -23,6 +26,6 @@ Keras
 
 - Data Visualization Tools:
 Tableau
-Microsoft Excel 
+Power BI 
 Python
 
