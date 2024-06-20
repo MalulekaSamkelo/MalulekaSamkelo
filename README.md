@@ -7,7 +7,6 @@
 Python
 SQL
 T-SQL
-Java
 MySQL
 
 - Data Integration:
